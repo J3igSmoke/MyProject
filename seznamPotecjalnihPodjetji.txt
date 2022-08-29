@@ -1,0 +1,273 @@
+1: Aleš Eržen s.p.  Gorièane 39A  1215 Medvode
+2: KN TEAM NEJC KRAJNIK s.p.  Ladja 33A  1215 Medvode
+3: E TISK Vid Osovnikar s.p.  Preška cesta 38  1215 Medvode
+4: Sašo Hribernik s.p.  Sora 65  1215 Medvode
+5: Luka Vilar s.p.  Sora 7  1215 Medvode
+6: ToBi Tomaž Biber s.p.  Spodnje Pirnièe 27B  1215 Medvode
+7: POLONA KOPAÈ S.P.  Spodnje Pirnièe 30A  1215 Medvode
+8: SEOTECH Matija Kuralt s.p.  Vaše 7A  1215 Medvode
+9: Mitja Šlenc s.p.  Verje 7D  1215 Medvode
+10: Tomaž Favai s.p.  Zgornje Pirnièe 22B  1215 Medvode
+11: Bojan Šavli s.p.  Zgornje Pirnièe 45P  1215 Medvode
+12: Simon Bergant s.p.  Zgornje Pirnièe 89  1215 Medvode
+13: Simon Bergant s.p.  Zgornje Pirnièe 89  1215 Medvode
+14: Jadranka Janev s.p.  Èarmanova ulica 6  1215 Medvode
+15: Helena Humar s.p.  Škofjeloška cesta 27  1215 Medvode
+16: Simon Hoèevar s.p.  Žlebe 78  1215 Medvode
+17: MIHA REKAR S.P.  Hraše 18A  1216 Smlednik
+18: Domen Grabec s.p.  Valburga 62  1216 Smlednik
+19: Andraž Kovaèiè s.p.  Kamniška cesta 51J  1217 Vodice
+20: Mlinariæ Ivan s.p.  Polje pri Vodicah 29I  1217 Vodice
+21: Marko Perko s.p.  Polje pri Vodicah 46  1217 Vodice
+22: ANŽE LOVIŠÈEK S.P.  Selo pri Vodicah 54  1217 Vodice
+23: ANŽE LOVIŠÈEK S.P.  Selo pri Vodicah 54  1217 Vodice
+24: ANŽE LOVIŠÈEK S.P.  Selo pri Vodicah 54  1217 Vodice
+25: Maja Zafran s.p.  Selo pri Vodicah 58  1217 Vodice
+26: Gregor Jeraj s.p.  Vodiška cesta 47A  1217 Vodice
+27: Marko Meden s.p.  Vojsko 25  1217 Vodice
+28: NIRIS d.o.o.  Bognarjeva ulica 29  1234 Mengeš
+29: KreLab Tilen Kreèa s.p.  Gasilska cesta 3  1234 Mengeš
+30: Aleš Fleischmann s.p.  Kamniška cesta 44  1234 Mengeš
+31: Aleš Fleischmann s.p.  Kamniška cesta 44  1234 Mengeš
+32: SMUKAVEC VALENTIN S.P.  Levèeva ulica 16  1234 Mengeš
+33: Klemen Brajkoviè s.p.  Slovenska cesta 38B  1234 Mengeš
+34: INFO.SI MARKO KRAMBERGER S.P.  Slovenska cesta 88  1234 Mengeš
+35: MCOOL d.o.o.  Vodnikova ulica 1  1234 Mengeš
+36: Matjaž Kukar s.p.  Zadružniška ulica 5  1234 Mengeš
+37: MATIC POTOÈNIK S.P.  Begunjska ulica 12  4000 Kranj
+38: DENEB DEBELAK S.P.  Begunjska ulica 7  4000 Kranj
+39: PRIMA SISTEMI d.o.o.  Bleiweisova cesta 30  4000 Kranj
+40: TIMOTEJ HAJŠEK S.P.  Bleiweisova cesta 45A  4000 Kranj
+41: SAMO LUŠTRIK S.P.  Bleiweisova cesta 6  4000 Kranj
+42: GREGOR POGAÈAR S.P.  Britof 231D  4000 Kranj
+43: ERPO SISTEMI d.o.o.  Britof 94  4000 Kranj
+44: Sašo Rutar s.p.  Cesta 1. maja 65  4000 Kranj
+45: MATEJ RESMAN S.P.  Cesta Jaka Platiše 11  4000 Kranj
+46: UpDev d.o.o.  Cesta Jaka Platiše 3  4000 Kranj
+47: SIMON NOVAK S.P.  Cesta Rudija Šeliga 3  4000 Kranj
+48: Klemen Grilc s.p.  Cesta Staneta Žagarja 37  4000 Kranj
+49: MAGIX6 d.o.o.  Cesta Staneta Žagarja 37  4000 Kranj
+50: INFOGRAM d.o.o.  Cesta na Klanec 51  4000 Kranj
+51: Optimamed Mirko Gradišar s.p.  Cesta talcev 75  4000 Kranj
+52: Pantiko d.o.o.  Delavska cesta 59  4000 Kranj
+53: bilateral Consulting d.o.o.  Dražgoška ulica 5  4000 Kranj
+54: ROBERT HAAS MILO S.P.  Drulovka 19  4000 Kranj
+55: Mali Mlin d.o.o.  Glavni trg 20  4000 Kranj
+56: OFIS42 d.o.o.  Gogalova ulica 8  4000 Kranj
+57: PRUDENTIA NEO d.o.o.  Gorenjesavska cesta 57  4000 Kranj
+58: Abacus BL d.o.o.  Gregorièeva ulica 29  4000 Kranj
+59: Aleš Koder s.p.  Grintovška ulica 17  4000 Kranj
+60: Filip Novak s.p.  Hrastje 138  4000 Kranj
+61: IRENA DOLENC S.P.  Hrastje 55A  4000 Kranj
+62: ROK MARKIÈ S.P.  Hrastje 55A  4000 Kranj
+63: AMG IT Global d.o.o.  Hrastje 95  4000 Kranj
+64: ŽIGA KAVÈIÈ S.P.  Jahaèev prehod 3  4000 Kranj
+65: Mitja Pagon s.p.  Jezerska cesta 130B  4000 Kranj
+66: ALURA COM d.o.o.  Jezerska cesta 71  4000 Kranj
+67: Martin Krè s.p.  Jezerska cesta 86  4000 Kranj
+68: Neža Nagliè s.p.  Kidrièeva cesta 57  4000 Kranj
+69: MATEVŽ PODNAR S.P.  Kopališka ulica 16  4000 Kranj
+70: INETA d.o.o.  Koroška cesta 31  4000 Kranj
+71: Blaž Erèulj s.p.  Levstikova ulica 8  4000 Kranj
+72: ROK OKORN S.P.  Levstikova ulica 8  4000 Kranj
+73: CODEMONKEE d.o.o.  Ljubljanska cesta 24B  4000 Kranj
+74: GeoCodis d.o.o.  Ljubljanska cesta 24B  4000 Kranj
+75: Callidus Group d.o.o.  Ljubljanska cesta 24C  4000 Kranj
+76: KARISMO d.o.o.  Ljubljanska cesta 24C  4000 Kranj
+77: 3fs d.o.o.  Ljubljanska cesta 24D  4000 Kranj
+78: Iryo d.o.o.  Ljubljanska cesta 24D  4000 Kranj
+79: TOSHL d.o.o.  Ljubljanska cesta 24D  4000 Kranj
+80: DOCENTRIC d.o.o.  Ljubljanska cesta 24G  4000 Kranj
+81: Hepra d.o.o.  Ljubljanska cesta 24G  4000 Kranj
+82: Klemen Balantiè s.p.  Mlaška cesta 59  4000 Kranj
+83: DIGITAL LOGIC d.o.o.  Nazorjeva ulica 3  4000 Kranj
+84: BOJAN HRIBERNIK S.P.  Oprešnikova ulica 24  4000 Kranj
+85: Rok Drinovec s.p.  Planica 4  4000 Kranj
+86: ASOS d.o.o.  Planina 3  4000 Kranj
+87: DEJAN KREJIÆ S.P.  Pot v Bitnje 13  4000 Kranj
+88: Jasna Krmelj s.p.  Pot v Bitnje 33  4000 Kranj
+89: SAŠO TEPINA S.P.  Pot v Bitnje 8  4000 Kranj
+90: Martin Vodnik s.p.  Predoslje 58  4000 Kranj
+91: MARJAN MRAK S.P.  Preèna ulica 8  4000 Kranj
+92: Miha Marijan s.p.  Retljeva ulica 2A  4000 Kranj
+93: Žan Ivanoviè s.p.  Rupa 10  4000 Kranj
+94: JAKA AVSEC S.P.  Savska cesta 38  4000 Kranj
+95: BDVISUAL d.o.o.  Smledniška cesta 55  4000 Kranj
+96: MARKO TURŠIÈ S.P.  Smledniška cesta 83  4000 Kranj
+97: JERNEJ KRUMPESTAR S.P.  Storžiška ulica 30  4000 Kranj
+98: GREGA LOBODA S.P.  Struževo 3  4000 Kranj
+99: FINMESH d.o.o.  Tomažièeva ulica 5  4000 Kranj
+100: Davor Cvek s.p.  Trboje 43  4000 Kranj
+101: Danijel Regojeviæ s.p.  Trg Prešernove brigade 2  4000 Kranj
+102: Gregor Bandel s.p.  Ulica Angelce Hlebce 1C  4000 Kranj
+103: kodeng Rok Potoènik s.p.  Ulica Angelce Hlebce 5A  4000 Kranj
+104: Martin Jagodic s.p.  Ulica Franca Rozmana-Staneta 2  4000 Kranj
+105: Peter Sodja s.p.  Ulica Gorenjskega odreda 14  4000 Kranj
+106: Tadej Vozliè s.p.  Ulica Gorenjskega odreda 14  4000 Kranj
+107: ALJOŠA RAKITA S.P.  Ulica Juleta Gabrovška 30  4000 Kranj
+108: Darko Atanasov s.p.  Ulica Lojzeta Hrovata 9  4000 Kranj
+109: FLYWITHCE UROŠ PODLOGAR S.P.  Ulica Lojzeta Hrovata 9  4000 Kranj
+110: LOGOS.SI d.o.o.  Ulica Mirka Vadnova 8  4000 Kranj
+111: ALEŠ KANCILIJA S.P.  Ulica Rudija Papeža 34  4000 Kranj
+112: JANEZ GEC S.P.  Zasavska cesta 3  4000 Kranj
+113: JANEZ PRAVST S.P.  Zevnikova ulica 1A  4000 Kranj
+114: GAL ERŽEN PAJIÈ S.P.  Zoisova ulica 11  4000 Kranj
+115: ANDREJ ARH S.P.  Zoisova ulica 13  4000 Kranj
+116: Erol Merdanoviæ s.p.  Zoisova ulica 9  4000 Kranj
+117: Gregor Primožiè s.p.  Zoisova ulica 9  4000 Kranj
+118: DATALOG Branko Hajdinjak s.p.  Èirèe 55  4000 Kranj
+119: Gregor Gunèar s.p.  Šorlijeva ulica 33  4000 Kranj
+120: PANARCH d.o.o.  Šuceva ulica 25  4000 Kranj
+121: DATASYS d.o.o.  Žanova ulica 3  4000 Kranj
+122: Sandi Lovše s.p.  Nemilje 18  4201 Zgornja Besnica
+123: NEJC PINTAR S.P.  Pešnica 6  4201 Zgornja Besnica
+124: ANDREJ ROZMAN S.P.  Pod gozdom 6  4201 Zgornja Besnica
+125: ANDREJ RAKOVEC S.P.  Zabukovje 41  4201 Zgornja Besnica
+126: ANŽE FAJFAR S.P.  Zabukovje 46  4201 Zgornja Besnica
+127: Aljaž Ribnikar s.p.  Cegelnica 18  4202 Naklo
+128: NACE JELOVÈAN S.P.  Cvetlièna ulica 1  4202 Naklo
+129: NIK POLIÈAR S.P.  Glavna cesta 39  4202 Naklo
+130: POLIÈAR TIM S.P.  Glavna cesta 39  4202 Naklo
+131: INUENI d.o.o.  Pot pod Gradišèem 4  4202 Naklo
+132: Katarina Štamulak s.p.  Stara cesta 1  4202 Naklo
+133: Gašper Cankar s.p.  Stara cesta 23A  4202 Naklo
+134: Jan Dominik Bohak s.p.  Strahinj 162  4202 Naklo
+135: UROŠ ARIH S.P.  Temniška ulica 1  4202 Naklo
+136: Aleš Šlibar s.p.  Temniška ulica 16A  4202 Naklo
+137: BIZART MIHA VAJT S.P.  Golnik 25A  4204 Golnik
+138: Uroš Valant s.p.  Golnik 45  4204 Golnik
+139: Andrej Pavlovèiè s.p.  Golnik 47  4204 Golnik
+140: GREGOR OMERSA s.p.  Gorièe 14  4204 Golnik
+141: Kristjan Zaplotnik s.p.  Trstenik 56  4204 Golnik
+142: ALJAŽ FERENCEK S.P.  Zalog 49  4204 Golnik
+143: INVENS d.o.o.  Bašelj 7B  4205 Preddvor
+144: MIHA MARKUN S.P.  Belska cesta 19  4205 Preddvor
+145: UBSoft d.o.o.  Kokra 9K  4205 Preddvor
+146: ROPRET GREGOR S.P.  Olševek 32  4205 Preddvor
+147: Matic Križaj s.p.  Pungart 3  4205 Preddvor
+148: IVANA BUKLIOSKA S.P.  Srednja Bela 22  4205 Preddvor
+149: Dejan Dobnikar s.p.  Srednja Bela 36A  4205 Preddvor
+150: Darko Mrvar s.p.  Spodnji Brnik 114  4207 Cerklje na Gorenjskem
+151: Andraž Dobnikar s.p.  Spodnji Brnik 51  4207 Cerklje na Gorenjskem
+152: PRIMOŽ MARN S.P.  Trnovlje 53  4207 Cerklje na Gorenjskem
+153: Tadej Polajnar s.p.  Ulica Ivana Hribarja 23  4207 Cerklje na Gorenjskem
+154: Zlatka Polièar s.p.  Šenturška Gora 41  4207 Cerklje na Gorenjskem
+155: Mourad Ilyes Mlik s.p  Beleharjeva cesta 39  4208 Šenèur
+156: Descartes labs d.o.o.  Delavska cesta 24  4208 Šenèur
+157: Luka Pifko s.p.  Pajerjeva ulica 3  4208 Šenèur
+158: LOVRO ŽITNIK S.P.  Pipanova cesta 102  4208 Šenèur
+159: PGSOFT.NET GREGOR POMPE S.P.  Pipanova cesta 4A  4208 Šenèur
+160: ERNA KOZINA S.P.  Pipanova cesta 76  4208 Šenèur
+161: INPORES d.o.o.  Poslovna cona A 10  4208 Šenèur
+162: NUT Solutions d.o.o.  Poslovna cona A 10  4208 Šenèur
+163: EURO PLUS d.o.o.  Poslovna cona A 2  4208 Šenèur
+164: VASCO d.o.o.  Poslovna cona A 21  4208 Šenèur
+165: Parameter d.o.o.  Poslovna cona A 37  4208 Šenèur
+166: AVANT.SI d.o.o.  Poslovna cona A 49  4208 Šenèur
+167: THE RIGHT THING SOLUTIONS d.o.o.  Poslovna cona A 53  4208 Šenèur
+168: BORUT BRENK S.P.  Rožna ulica 39  4208 Šenèur
+169: SECONDCOACH d.o.o.  Sajovèevo naselje 38  4208 Šenèur
+170: Rosea d.o.o.  Sajovèevo naselje 69  4208 Šenèur
+171: MOJ.GS d.o.o.  Stružnikova pot 21  4208 Šenèur
+172: Marija Radoviæ s.p.  Voklo 20A  4208 Šenèur
+173: HENRIK CIGLIÈ S.P.  Štefetova ulica 28B  4208 Šenèur
+174: NETLAB d.o.o.  Breg ob Savi 58A  4211 Mavèièe
+175: Robert Porenta s.p.  Breg ob Savi 58A  4211 Mavèièe
+176: Luka Toni s.p.  Mavèièe 76  4211 Mavèièe
+177: Dejan Frelih s.p.  Brode 32  4220 Škofja Loka
+178: KREATIVIJA d.o.o.  Godešiè 58  4220 Škofja Loka ??
+179: Anže Gvardjanèiè s.p.  Gorenja vas - Reteèe 51A  4220 Škofja Loka
+180: Anže Rebec s.p.  Groharjevo naselje 82  4220 Škofja Loka
+181: David Mavrin s.p.  Hafnerjevo naselje 64  4220 Škofja Loka
+182: PREMISA d.o.o.  Kidrièeva cesta 66A  4220 Škofja Loka
+183: iPLUS d.o.o.  Kidrièeva cesta 92  4220 Škofja Loka
+184: BEST IT d.o.o.  Papirnica 24  4220 Škofja Loka
+185: Peter Koman s.p.  Partizanska cesta 41  4220 Škofja Loka
+186: RETTRO d.o.o.  Pod Plevno 15  4220 Škofja Loka
+187: RPM - ROK KAPUN S.P.  Podlubnik 153  4220 Škofja Loka
+188: Jernej Lunder s. p.  Podlubnik 66  4220 Škofja Loka
+189: Branko Vidmar s.p.  Podlubnik 88  4220 Škofja Loka
+190: RAÈUNALNIŠKO PROGRAMIRANJE - LOVRO KALAN S.P.  Puštal 55A  4220 Škofja Loka
+191: Boomerank d.o.o.  Reteèe 16A  4220 Škofja Loka
+192: Klemen Pernuš s.p.  Reteèe 173  4220 Škofja Loka
+193: Luka Glušiè s.p.  Reteèe 181  4220 Škofja Loka
+194: NETICA d.o.o.  Reteèe 97  4220 Škofja Loka
+195: Anže Harej s.p.  Stara Loka 93  4220 Škofja Loka
+196: OPAL d.o.o.  Sv. Duh 274  4220 Škofja Loka
+197: Marko Šmid s.p.  Vešter 13A  4220 Škofja Loka
+198: Jernej Korošec s.p.  Vešter 2  4220 Škofja Loka
+199: POSI d.o.o.  Vešter 5  4220 Škofja Loka
+200: IGOR JURIÈAN S.P.  Virmaše 27  4220 Škofja Loka
+201: ANŽE NUNAR S.P.  Zminec 118  4220 Škofja Loka
+202: SC.IT Sašo Celarc s.p.  Zminec 39  4220 Škofja Loka
+203: Aleš Ferlan s.p.  Dolenja Dobrava 4A  4224 Gorenja vas
+204: David Frlic s.p.  Kopaènica 17  4224 Gorenja vas
+205: TACTUM d.o.o.  Stara Oselica 22A  4224 Gorenja vas
+206: Uroš Èaviæ s.p.  Koprivnik 28  4225 Sovodenj
+207: Jan Kokalj s.p.  Laniše 8  4225 Sovodenj
+208: MATEJ ZAJC s.p.  Sovodenj 14  4225 Sovodenj
+209: Urban Soban s.p.  Dražgoška ulica 9  4226 Žiri
+210: ETIKETA Interactive d.o.o.  Industrijska ulica 6  4226 Žiri
+211: Urh Likar s.p.  Levstikova ulica 8  4226 Žiri
+212: Žiga Mlinar s.p.  Loška cesta 21  4226 Žiri
+213: Jurij Erznožnik s.p.  Partizanska cesta 7  4226 Žiri
+214: Test IT d.o.o.  Pod grièi 50  4226 Žiri
+215: Matija Rus s.p.  Raèeva 25A  4226 Žiri
+216: Simon Štamcar s.p.  Dašnica 11  4228 Železniki
+217: Aleš Kavèiè s.p.  Dražgoše 12A  4228 Železniki
+218: SAŠA MARENK S.P.  Dražgoše 47  4228 Železniki
+219: ILIA SHAVRIN S.P.  Podlonk 27  4228 Železniki
+220: BLAŽ ŠOLAR S.P.  Spodnja Dobrava 1A  4245 Kropa
+221: Jure Resman s.p.  Kamna Gorica 100  4246 Kamna Gorica
+222: Andrej Pogaènik s.p.  Kamna Gorica 17A  4246 Kamna Gorica
+223: BUFO ITS d.o.o.  Spodnje Gorje 217A  4247 Zgornje Gorje
+224: Jernej Èop s.p.  Spodnje Gorje 90B  4247 Zgornje Gorje
+225: Vid Hribljan s.p.  Zgornje Gorje 19  4247 Zgornje Gorje
+226: ALGIT d.o.o.  Finžgarjeva ulica 1A  4248 Lesce
+227: VID ÈUFER S.P.  Tržaška ulica 7  4248 Lesce
+228: Nik Ipavec s.p.  Vojkova ulica 12  4248 Lesce
+229: Grigory Evseev s.p.  Železniška ulica 5  4248 Lesce
+230: MATJAŽ JORDAN S.P.  Breg 144  4274 Žirovnica
+231: DEJAN NARIÆ S.P.  Breg 20A  4274 Žirovnica
+232: UROŠ JEREB S.P.  Breg 83  4274 Žirovnica
+233: TINA PANZALOVIÆ S.P.  Breznica 12  4274 Žirovnica
+234: Gregor Èarni s.p.  Breznica 48A  4274 Žirovnica
+235: WEBSHOCKER MATJAŽ VALENTAR S.P.  Breznica 48A  4274 Žirovnica
+236: UROŠ STERLE S.P.  Doslovèe 26  4274 Žirovnica
+237: VOVÈAK d.o.o.  Moste 35  4274 Žirovnica
+238: Aleš Žagar s.p.  Moste 48A  4274 Žirovnica
+239: Uroš Bernik s.p.  Moste 63B  4274 Žirovnica
+240: Mandu d.o.o.  Moste 90  4274 Žirovnica
+241: Miha Fink s.p.  Selo pri Žirovnici 15  4274 Žirovnica
+242: DigiEd d.o.o.  Smokuè 70  4274 Žirovnica
+243: Marko Svetina s.p.  Zabreznica 1D  4274 Žirovnica
+244: Matija Dolžan s.p.  Zabreznica 29  4274 Žirovnica
+245: TOPINFO d.o.o.  Zabreznica 37D  4274 Žirovnica
+246: Andrej Matjašiè s.p.  Zabreznica 45A  4274 Žirovnica
+247: Sandra Wagner s.p.  Zabreznica 50F  4274 Žirovnica
+248: Uroš Mally s.p.  Žirovnica 40  4274 Žirovnica
+249: Primož Legat s.p.  Begunje na Gorenjskem 32  4275 Begunje na Gorenjskem
+250: Lovro Gašperin s.p.  Poljèe 3  4275 Begunje na Gorenjskem
+251: ALEXANDRU MALER S.P.  Zapuže 8  4275 Begunje na Gorenjskem
+252: Valeriu Maler s.p.  Zapuže 8  4275 Begunje na Gorenjskem
+253: MELOM d.o.o. Tržiè  Balos 1  4290 Tržiè
+254: EPAKET d.o.o.  Bistrica 7  4290 Tržiè
+255: IZDELAVA.COM ROK ROZMAN S.P.  Brezje pri Tržièu 100  4290 Tržiè
+256: Danilo Pretnar s.p.  Brezje pri Tržièu 103  4290 Tržiè
+257: Aleksandar Žujoviæ s.p.  Koroška cesta 7  4290 Tržiè
+258: VERA GODNOV S.P.  Na jasi 5  4290 Tržiè
+259: Nejc Gašperin s.p.  Pot na Bistriško planino 8A  4290 Tržiè
+260: ALEŠ ROZMAN S.P.  Pot na polje 38  4290 Tržiè
+261: GREGA POVHE KOŽELJ S.P.  Pot na polje 44  4290 Tržiè
+262: DAMJAN ŠKERJANC S.P.  ŽIGANJA VAS 70  4294 KRIŽE
+263: DAMJAN ŠKERJANC S.P.  ŽIGANJA VAS 70  4294 KRIŽE
+264: ANŽE ŠTOKELJ S.P.  Pod Slemenom 26  4294 Križe
+265: ANŽE ŠTOKELJ S.P.  Pod Slemenom 26  4294 Križe
+266: NEXT 4.0 d.o.o.  Sebenje 49D  4294 Križe
+267: NEXT 4.0 d.o.o.  Sebenje 49D  4294 Križe
+268: Jaka Cigliè s.p.  Sebenje 84  4294 Križe
+269: Jaka Cigliè s.p.  Sebenje 84  4294 Križe
+270: Nina Žaler S.P.  Snakovška cesta 15A  4294 Križe
+271: Nina Žaler S.P.  Snakovška cesta 15A  4294 Križe
+272: PRIMOŽ KOŠIR S.P.  Žiganja vas 21A  4294 Križe
+273: PRIMOŽ KOŠIR S.P.  Žiganja vas 21A  4294 Križe
